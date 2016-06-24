@@ -1,0 +1,13 @@
+{
+    "name": "sjelfull/craft-bugsnag",
+    "description": "Craft CMS Plugin that allows you to log errors/exceptions in Craft to Bugsnag.",
+    "authors": [
+        {
+            "name": "Fred Carlsen",
+            "email": "fred@sjelfull.no"
+        }
+    ],
+    "require": {
+        "bugsnag/bugsnag": "^2.9"
+    }
+}
