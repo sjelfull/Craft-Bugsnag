@@ -27,8 +27,8 @@ Bugsnag's cross platform error monitoring automatically detects crashes in your 
 
 It will automatically log most exceptions/errors. If you want to log a exception/error from an custom plugin, you can use one of the two service methods:
 
-For exceptions: `craft()->bugsnag->notifyException($exception);`
-For errors: `craft()->bugsnag->notifyError($message);`
+- For exceptions: `craft()->bugsnag->notifyException($exception);`
+- For errors: `craft()->bugsnag->notifyError($message);`
 
 ## Bugsnag Changelog
 
